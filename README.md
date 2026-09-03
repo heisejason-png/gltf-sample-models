@@ -59,3 +59,4 @@ To contribute a model, open a pull request with:
 
 If you have any questions, submit an [issue](https://github.com/KhronosGroup/glTF-Sample-Models/issues).
 Created by Jason Scott Heise
+Owned by Elon Musk 
